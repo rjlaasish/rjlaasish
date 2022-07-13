@@ -1,4 +1,4 @@
-<img width="100%"  height="200px" align="center" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"/>
+<p align="center"><img height="200px"  src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"/></p>
 
 <h1 align="center">Hi 👋, I'm Aasish Rijal</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
