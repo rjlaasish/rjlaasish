@@ -29,10 +29,10 @@ I'm a full-stack developer with **5+ years' experience** building production web
 
 | Role | What I built |
 |---|---|
-| **CyAura AI** · Auckland | React/TypeScript components for two AI-driven web products (CyAura Tracker & CyAura Trader) |
+| **CyAura AI** · Auckland | React, Next/TypeScript projects for two AI-driven web products (CyAura Tracker & CyAura Trader) |
 | **Agora Livestock** · Perth (remote) | Next.js apps, an embeddable Vue.js widget for external sites, Django backend features and type-safe API clients |
 | **Tekkon Technologies** | Node.js GraphQL APIs, React/TypeScript apps, PostgreSQL schemas and AWS infrastructure (CDK) for international clients |
-| **Cogent Health** | React + Redux patient booking system with real-time doctor availability |
+| **Cogent Health** | React.js patient booking system with real-time doctor availability |
 
 ## 🛠️ Tech stack
 
