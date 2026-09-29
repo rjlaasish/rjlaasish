@@ -1,21 +1,53 @@
-<p align="center"><img height="200px"  src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"/></p>
+<h1 align="center">Hi, I'm Aasish Rijal 👋</h1>
+<h3 align="center">Full-Stack Developer · React · Next.js · TypeScript · Node.js · AWS</h3>
+<p align="center">📍 Auckland, New Zealand · 🟢 Open to full-stack & frontend roles · ✅ Full NZ work rights</p>
 
-<h1 align="center">Hi 👋, I'm Aasish Rijal</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-
-
-- 💬 Ask me about **React, Next.js, Node.js**
-
-- 📫 How to reach me **rjlaasish@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/rjlaasish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rjlaasish" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aasish-rijal-a25301189" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aasish-rijal-a25301189" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://rjlaasish.com"><img src="https://img.shields.io/badge/Portfolio-rjlaasish.com-1F3864?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/aasish-rijal-a25301189"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:rjlaasish@gmail.com"><img src="https://img.shields.io/badge/Email-rjlaasish@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rjlaasish&show_icons=true&locale=en" alt="rjlaasish" /></p>
+## 👨‍💻 About me
+
+I'm a full-stack developer with **5+ years' experience** building production web applications for clients in New Zealand, Australia and Nepal.
+
+- ⚛️ Strongest in **React / Next.js / TypeScript** frontends backed by **Node.js GraphQL & REST APIs** and **PostgreSQL**
+- ☁️ Deploy on **AWS** (Lambda, EC2, RDS, S3, CDK) with **Docker** and **CI/CD** pipelines
+- 🎨 Comfortable taking features from **Figma design to production**, with a focus on performance and accessibility (WCAG)
+- 🎓 **Master of Software Engineering** (Level 9), Auckland, 2026
+
+## 🔭 Currently
+
+- 🤖 Building an AI-powered app with **Next.js, RAG and PostgreSQL + pgvector**, deployed on AWS
+- 📚 Studying for **AWS Certified Developer – Associate**
+- 🤝 Contributing to open-source web apps for community groups in New Zealand
+
+## 💼 Recent work
+
+| Role | What I built |
+|---|---|
+| **CyAura AI** · Auckland | React/TypeScript components for two AI-driven web products (CyAura Tracker & CyAura Trader) |
+| **Agora Livestock** · Perth (remote) | Next.js apps, an embeddable Vue.js widget for external sites, Django backend features and type-safe API clients |
+| **Tekkon Technologies** | Node.js GraphQL APIs, React/TypeScript apps, PostgreSQL schemas and AWS infrastructure (CDK) for international clients |
+| **Cogent Health** | React + Redux patient booking system with real-time doctor availability |
+
+## 🛠️ Tech stack
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,vue,tailwind,styledcomponents,html,css" alt="Frontend skills"/>
+
+**Backend & data**
+
+<img src="https://skillicons.dev/icons?i=nodejs,graphql,python,django,postgres,mongodb,supabase" alt="Backend skills"/>
+
+**Cloud, DevOps & tools**
+
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,gitlab,jest,git,figma" alt="Cloud and tools"/>
+
+## 🤝 Let's connect
+
+I'm always happy to chat about React, Next.js, AWS, or developer opportunities in New Zealand. The best way to reach me is **[rjlaasish@gmail.com](mailto:rjlaasish@gmail.com)** or **[LinkedIn](https://linkedin.com/in/aasish-rijal-a25301189)**.
